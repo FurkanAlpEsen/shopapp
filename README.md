@@ -91,5 +91,5 @@ Hatalar ekranın içinde gösterilecek. (Kritik bug!)
 
 -Ürün Detay Sayfası
 
-<img src='assets/ss/detaıl.png' width='100' height='200'>
+<img src='assets/ss/detail.png' width='100' height='200'>
 
