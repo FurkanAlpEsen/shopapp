@@ -23,6 +23,8 @@ Clean Arhitechture mimarisi kullanılarak geliştirilmiştir.
 - Login ve register işlemleri sırasında kontrol yapan bloc yapısı düzeltilmeli.
 Hatalar ekranın içinde gösterilecek. (Kritik bug!)
 
+- Kullanıcı login bilgisi tutulmalı.
+
 - Detay ekranı ayrı navigate işlemi yapılmayacak.
 
 - Textfieldların boyutları tasarıma uygun düzeltielecek.
