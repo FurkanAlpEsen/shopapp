@@ -1,5 +1,5 @@
 import 'package:get_it/get_it.dart';
-import 'package:shopapp/exception_handler.dart';
+
 import 'package:shopapp/features/auth/data/repositories/auth_repository_impl.dart';
 import 'package:shopapp/features/auth/domain/repositories/auth_repository.dart';
 import 'package:shopapp/features/auth/domain/usecases/login_usecase.dart';
@@ -42,6 +42,5 @@ Future<void> initializeDependencies() async {
   // sl.registerFactory<BasketBloc>(() => BasketBloc(sl()));
   // sl.registerFactory<HomeBloc>(() => HomeBloc(sl()));
 
-  sl.registerSingleton<MyHandler>(MyHandler());
   // sl.registerFactory<MyHandler>(() => MyHandler());
 }
